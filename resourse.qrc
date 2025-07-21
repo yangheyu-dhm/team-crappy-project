@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>qqicon.png</file>
+        <file>activitiyicon.png</file>
+        <file>deviceicon.png</file>
+        <file>leaveicon.png</file>
+        <file>parkingicon.png</file>
+        <file>repairicon.png</file>
+        <file>upcicon.jpg</file>
+        <file>tubiao1.png</file>
+        <file>tubiao2.png</file>
+        <file>tubiao3.png</file>
+        <file>tubiao4.png</file>
+        <file>tubiao5.png</file>
+        <file>tubiao6.png</file>
+        <file>tubiao7.png</file>
+        <file>tubiao8.png</file>
+        <file>handsome.jpg</file>
+        <file>QRcode.png</file>
+        <file>anicon.png</file>
+        <file>refresh.png</file>
+        <file>cover.jpg</file>
+    </qresource>
+</RCC>
